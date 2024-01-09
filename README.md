@@ -20,7 +20,7 @@ Then Optimization of parameters with GridSearchCV</h2>
 
 
 </p>
-<img src=(https://github.com/GIGAParviz/Person-Detection-VGG-16/assets/129797437/905527fa-5229-4c89-87da-701c4c05180a) alt="Paris" class="center">
+<img src=![image](https://github.com/GIGAParviz/Person-Detection-VGG-16/assets/129797437/905527fa-5229-4c89-87da-701c4c05180a) alt="Paris" class="center">
 <h2>Its can Improve by more training or better parameters </h2>
 
 <h2>hope you like it <3 </h2>
