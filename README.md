@@ -1,7 +1,7 @@
-# Car-Detection-VGG-16
+# Face-Detection-VGG-16
 
 <p align="center">
-<h2 align="center">🎯Car detection trainde with VGG-16 convolutional neural network.
+<h2 align="center">🎯Face detection trainde with VGG-16 convolutional neural network.
 Then Optimization of parameters with GridSearchCV</h2>
 </p>
 
