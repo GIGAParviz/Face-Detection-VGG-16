@@ -8,8 +8,9 @@ Then Optimization of parameters with GridSearchCV</h2>
 
 <p align="center">
 <h2 align="center">✨Before improving the parameters</h2>
-  
-  ![image](https://github.com/GIGAParviz/Person-Detection-VGG-16/assets/129797437/1f2cc63c-b25f-495d-9930-94f5aa075714)
+<div align=center>
+<img src="https://github.com/GIGAParviz/Person-Detection-VGG-16/assets/129797437/1f2cc63c-b25f-495d-9930-94f5aa075714" alt="object detection" width="100%"/>
+</div>
 </p>
 
 
