@@ -15,7 +15,7 @@ Then Optimization of parameters with GridSearchCV</h2>
 
 
 <p align="center">
-<h2 align="center">✨Before improving the parameters</h2>
+<h2 align="center">✨After improving the parameters</h2>
 <div align=center>
 <img src="https://github.com/GIGAParviz/Person-Detection-VGG-16/assets/129797437/905527fa-5229-4c89-87da-701c4c05180a" alt="person detection" width="50%"/>
 </div>
